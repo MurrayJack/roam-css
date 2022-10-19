@@ -17,6 +17,10 @@ body {
     background-color: var(--main--bg-color);
 }
 
+.roam-body .roam-app .roam-main .roam-article {
+    padding: 32px;
+}
+
 a {
     color: #d67b60;
 }
