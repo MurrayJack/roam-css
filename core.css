@@ -1,3 +1,7 @@
 body {
     background-color: var(--main--bg-color);
 }
+
+.rm-article-wrapper .roam-log-container .roam-log-page {
+    background-color: white;
+}
