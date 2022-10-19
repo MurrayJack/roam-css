@@ -1,6 +1,6 @@
 /* @import url('https://azlen.github.io/roam-themes/zenith.css'); */
-
+@import url('https://murrayjack.github.io/roam-css/core.css');
 
 :root {
-
+    --main--bg-color: #e9e9e6;
 }
