@@ -3,7 +3,6 @@ body {
     color: #2e2e2e;
 }
 
-.roam-body .roam-app .roam-main .roam-article,
 #right-sidebar .rm-sidebar-window,
 .rm-article-wrapper .roam-log-container .roam-log-page {
     background-color: white;
@@ -24,9 +23,13 @@ body {
     background-color: var(--main--bg-color);
 }
 
+.roam-body .roam-app .roam-main .roam-article {
+    padding: 32px;
+}
+
 .rm-page-ref--link,
 a {
-    color: var(--main-color);
+    color: #d67b60;
 }
 
 .roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .starred-pages-wrapper .starred-pages .page:hover {
