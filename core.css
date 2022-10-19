@@ -21,6 +21,10 @@ body {
     padding: 32px;
 }
 
+#right-sidebar {
+    background-color: var(--main--bg-color);
+}
+
 a {
     color: #d67b60;
 }
