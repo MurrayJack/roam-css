@@ -36,3 +36,7 @@ a {
     background-color: transparent;
     color: var(--main-color);
 }
+
+#right-sidebar .rm-sidebar-window {
+    margin: 32px;
+}
