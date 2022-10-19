@@ -8,3 +8,7 @@ body {
     padding: 32px 16px; 
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
+
+.roam-body .roam-app .roam-sidebar-container {
+    background-color: var(--main--bg-color);
+}
