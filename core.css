@@ -13,6 +13,10 @@ body {
     margin-bottom: 0;
 }
 
+.rm-article-wrapper .roam-log-container .roam-log-page {
+    margin-top: 16px;
+}
+
 /* .rm-article-wrapper .roam-log-container .roam-log-page:first-of-type {
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 } */
