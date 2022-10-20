@@ -4,7 +4,7 @@ body {
 }
 
 #right-sidebar .rm-sidebar-window,
-.rm-article-wrapper .roam-log-container > div {
+.rm-article-wrapper .roam-log-container .roam-log-page {
     background-color: white;
     border-radius: 4px;
     padding: 40px 32px; 
