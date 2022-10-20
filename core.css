@@ -29,7 +29,7 @@ body {
 
 .rm-page-ref--link,
 a {
-    color: #d67b60;
+    color: var(--main-color);
 }
 
 .roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .starred-pages-wrapper .starred-pages .page:hover {
@@ -39,4 +39,9 @@ a {
 
 #right-sidebar .rm-sidebar-window {
     margin: 32px;
+}
+
+.rm-page-ref--tag {
+    background-color: #898989;
+    color: white;
 }
