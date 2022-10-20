@@ -51,7 +51,8 @@ a {
 }
 
 .rm-page-ref--tag {
-    background-color: #d67b60;
+    background-color: transparent;
+    border: #898989;
     color: #2e2e2e;
     border-radius: 3px;
     padding: 3px;
